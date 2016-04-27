@@ -1,0 +1,9 @@
+Defina la variable demo como sigue
+demo='hola'
+Ejecute env1.sh
+
+Ahora, defina la variable demo como sigue
+export demo='hola'
+Ejecute nuevamente env1.sh
+
+Que cree que sucedio
